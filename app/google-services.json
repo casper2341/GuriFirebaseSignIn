@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438326434147",
+    "project_id": "gurifirebasesignin",
+    "storage_bucket": "gurifirebasesignin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438326434147:android:85f625593dede570251b56",
+        "android_client_info": {
+          "package_name": "com.example.gurifirebasesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaKqYWdA-sFWLDWwDa9pcF0TYrpHm1kv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
